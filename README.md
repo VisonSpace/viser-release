@@ -3,3 +3,4 @@
 ## PERF: Performant, Explicit Radiance Fields
 ## Plenoxels: Radiance Fields without Neural Networks
 ## https://www.bilibili.com/video/BV1DP41157dB/?spm_id_from=333.337.search-card.all.click
+## Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction
